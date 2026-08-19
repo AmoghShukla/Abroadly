@@ -1,0 +1,9 @@
+{
+  "name": "abroadly-web",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": { "dev": "vite --host 0.0.0.0", "build": "tsc -b && vite build" },
+  "dependencies": { "@emotion/react": "^11.14.0", "@emotion/styled": "^11.14.0", "@mui/icons-material": "^7.3.1", "@mui/material": "^7.3.1", "react": "^19.1.1", "react-dom": "^19.1.1" },
+  "devDependencies": { "@types/react": "^19.1.10", "@types/react-dom": "^19.1.7", "@vitejs/plugin-react": "^5.0.2", "typescript": "^5.8.3", "vite": "^7.1.3" }
+}
